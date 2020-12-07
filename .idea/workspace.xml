@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99a0e3f6-cb42-41bb-a89c-a36a2e0b8629" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l434U5bKn5zkXVJGdNSxKGjdav" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ProtobufDeserialisation">
+    <configuration name="JSONDeserialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forBenchmark.JSONDeserialisation" />
+      <module name="Opti_lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forBenchmark.JSONSerialization" />
+      <module name="Opti_lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forBenchmark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProtobufDeserialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forBenchmark.ProtobufDeserialisation" />
+      <module name="Opti_lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forBenchmark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProtobufSerialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forBenchmark.ProtobufSerialisation" />
+      <module name="Opti_lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forBenchmark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProtobufDeserialisation" />
+        <item itemvalue="Application.ProtobufSerialisation" />
+        <item itemvalue="Application.JSONDeserialisation" />
+        <item itemvalue="Application.JSONSerialization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99a0e3f6-cb42-41bb-a89c-a36a2e0b8629" name="Default Changelist" comment="" />
+      <created>1606842344214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606842344214</updated>
+      <workItem from="1606842349162" duration="13287000" />
+      <workItem from="1606895145387" duration="2113000" />
+      <workItem from="1607244537409" duration="14832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1606844964507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606844964507" />
+    <state x="516" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606850318147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606850318147" />
+    <state x="549" y="116" key="FileChooserDialogImpl" timestamp="1607245901579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="116" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607245901579" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1607349393664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607349393664" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1607349393663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607349393663" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1607349393662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607349393662" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1607349393664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607349393664" />
+    <state x="439" y="117" key="NewModule_or_Project.wizard" timestamp="1607245906779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="117" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1607245906779" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1607244539007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1607244539007" />
+  </component>
+</project>

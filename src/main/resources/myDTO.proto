@@ -1,0 +1,10 @@
+syntax = "proto2";
+option java_outer_classname = "ProtobufDTO";
+
+message myDTO {
+  required int64 Id = 1;
+  required string Fname = 2;
+  required string Lname = 3;
+  required bool Dormestery_payed = 4;
+  required int64 Mark = 5;
+}

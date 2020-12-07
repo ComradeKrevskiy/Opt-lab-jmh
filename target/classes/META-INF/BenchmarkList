@@ -1,0 +1,4 @@
+JMH S 32 forBenchmark.JSONDeserialisation S 62 forBenchmark.generated.JSONDeserialisation_Deserialise_jmhTest S 11 Deserialise S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 36 forBenchmark.ProtobufDeserialisation S 66 forBenchmark.generated.ProtobufDeserialisation_deserialise_jmhTest S 11 deserialise S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 34 forBenchmark.ProtobufSerialisation S 62 forBenchmark.generated.ProtobufSerialisation_serialise_jmhTest S 9 serialise S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 30 forBenchmark.JSONSerialization S 58 forBenchmark.generated.JSONSerialization_Serialise_jmhTest S 9 Serialise S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
