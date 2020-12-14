@@ -70,3 +70,5 @@ forBenchmark.JSONSerialization.Serialise          thrpt    5  2330021,294 ± 471
 forBenchmark.JSONDeserialisation.Deserialise      thrpt    5  1284601,606 ± 215468,941   ops/s
 forBenchmark.ProtobufSerialisation.serialise      thrpt    5  553680,446  ± 81387,746    ops/s
 forBenchmark.ProtobufDeserialisation.deserialise  thrpt    5  3958501,601 ± 5919953,603  ops/s
+
+Выходит, что у JSON'a сериализация в несколько раз быстрее (по пропускной способности), чем у Protobuf'a. А по десериализации - все наоборот, Protobuf быстрее.
